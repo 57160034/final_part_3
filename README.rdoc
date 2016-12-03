@@ -1,4 +1,8 @@
-#  ลิงค์
-https://stormy-atoll-23332.herokuapp.com/
+#ลิงค์
+1. https://stormy-atoll-23332.herokuapp.com/
+
+2. https://stormy-atoll-23332.herokuapp.com/home/kingsong1
+
+3. https://stormy-atoll-23332.herokuapp.com/home/kingsong2
 
 นาย กวินภพ พราหมณ์มณ๊ รหัสนิสิต 57160034
